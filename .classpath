@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_101"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/embeddedpdp.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/jackson-annotations-2.6.0.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/jackson-core-2.6.3.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/jackson-databind-2.6.3.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/nextlabs-openaz-pep.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/openaz-pep-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="xlib/jar/openaz-xacml-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
